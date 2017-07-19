@@ -6,4 +6,4 @@ rvm:
 sudo: false
 notifications:
   email:
-    - blue-ci-notifications@getbraintree.com
+    - dkuntz2+ci@gmail.com
